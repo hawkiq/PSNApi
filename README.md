@@ -12,6 +12,7 @@ as you see from example .php you must include class file into your project
 # Usage
 create new object from class
 
+    $psnID = "hawkiq";
     $psnapi = new hawkiqPSApi($psnID);
    
 note that the class take initial parameter which is Player PSN ID
@@ -19,5 +20,25 @@ note that the class take initial parameter which is Player PSN ID
     $playerInfo = $psnapi->get_infos();
     
 this will return array of info and use it like you want :)
+
+```
+Array
+(
+    [username] => hawkiq 
+    [about] => * Founder of Iraqi Pl 
+    [avatar] => https://i.psnprofiles.com/avatars/l/1000.6becc.png
+    [total] => 3568
+    [platinum] => 73
+    [gold] => 267
+    [silver] => 694
+    [bronze] => 2534
+    [level] => 22
+    [lastgame] => Life Is Strange
+    [played] => 92
+    [completion] => 80.71
+    [complgames] => 49
+    [hiddentrophies] => 
+)
+```
 # More
-see example.php 
+see  https://github.com/hawkiq/PSNApi/blob/master/example.php
