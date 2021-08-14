@@ -25,19 +25,23 @@ this will return array of info and use it like you want :)
 Array
 (
     [username] => hawkiq 
-    [about] => * Founder of Iraqi Pl 
-    [avatar] => https://i.psnprofiles.com/avatars/l/1000.6becc.png
-    [total] => 3568
-    [platinum] => 73
-    [gold] => 267
-    [silver] => 694
-    [bronze] => 2534
-    [level] => 22
-    [lastgame] => Life Is Strange
-    [played] => 92
-    [completion] => 80.71
-    [complgames] => 49
-    [hiddentrophies] => 
+    [about] => * Founder of Iraqi PlayStation Players Leaderboard  •  * instagram:hawkiq  •  oJJI IJI oJI IJ
+    [avatar] => https://i.psnprofiles.com/avatars/l/G4613a5e4c.png
+    [trophies] => Array
+        (
+            [total] => 5441
+            [platinum] => 110
+            [gold] => 401
+            [silver] => 1068
+            [bronze] => 3862
+        )
+
+    [level] => 406
+    [lastgame] => Horizon Zero Dawn
+    [played] => 153
+    [completion] => 74.96
+    [complgames] => 77
+    [hiddentrophies] => 0
 )
 ```
 # More
