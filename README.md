@@ -17,7 +17,7 @@ create new object from class
    
 note that the class take initial parameter which is Player PSN ID
 
-    $playerInfo = $psnapi->get_infos();
+    $playerInfo = $psnapi->getInfos();
     
 this will return array of info and use it like you want :)
 
